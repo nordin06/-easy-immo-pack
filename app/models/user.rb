@@ -6,6 +6,6 @@ class User < ApplicationRecord
 
 
 
-validates :nickname, presence: true, length: { minimum: 5 }
+
 
 end
