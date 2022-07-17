@@ -1,0 +1,128 @@
+// .card-trip {
+//   overflow: hidden;
+//   background: white;
+//   box-shadow: 0 0 15px rgba(0,0,0,0.2);
+// }
+
+// .card-trip > img {
+//   height: 300px;
+//   width: 100%;
+//   object-fit: cover;
+// }
+
+// .card-trip h2 {
+//   font-size: 16px;
+//   font-weight: bold;
+//   margin: 0;
+// }
+
+// .card-trip p {
+//   font-size: 12px;
+//   opacity: .7;
+//   margin: 0;
+// }
+
+
+// .card-trip .card-trip-infos {
+//   padding: 16px;
+//   display: flex;
+//   justify-content: space-between;
+//   align-items: flex-end;
+//   position: relative;
+// }
+
+// .card-trip-infos .card-trip-user {
+//   position: absolute;
+//   right: 16px;
+//   top: -20px;
+//   width: 40px;
+// }
+
+/* Rectangle 12 */
+.card-trip > img {
+
+
+
+  position: absolute;
+  width: 1017px;
+  height: 592px;
+  left: 7px;
+  top: 81px;
+}
+
+.card-trip2 > img {
+  margin-top: 600px;
+  position: absolute;
+  left: 7px;
+  width: 1017px;
+  height: 662px;
+
+}
+
+.btn-flat {
+
+position: absolute;
+width: 246px;
+height: 145px;
+
+top: 116px;
+background-color: #020d52;
+opacity: 0.6;
+text-align: center;
+margin-left: 15px;
+
+  h1  {
+    position: absolute;
+    left: 10.27%;
+
+    top: 28.28%;
+    bottom: 31.72%;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 58px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+
+
+  }
+
+ }
+
+ .btn-flat2 {
+
+  position: absolute;
+  width: 373px;
+  height: 145px;
+
+  top: 745px;
+  background-color: #020d52;
+  opacity: 0.6;
+  text-align: center;
+  margin-left: 15px;
+
+  background: rgba(247, 7, 127, 0.66);
+
+    h1  {
+      position: absolute;
+      left: 4.88%;
+
+      top: 8.28%;
+      bottom: 11.72%;
+
+      font-family: 'Inter';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 48px;
+      line-height: 58px;
+
+      color: #FFFFFF;
+
+
+    }
+
+   }
